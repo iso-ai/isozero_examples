@@ -1,4 +1,4 @@
-# IsoZero Examples in Jupyter Notebooks
+# IsoZero Example Repository
 
 This repository contains a collection of Jupyter notebooks demonstrating the usage of IsoZero, a powerful SDK designed to enhance Large Language Model (LLM) zero-shot responses through multi-step reasoning and document analysis.
 
